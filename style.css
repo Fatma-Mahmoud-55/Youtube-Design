@@ -192,7 +192,7 @@ main {
 .thumbnail img {
     height: 100%;
     width: 100%;
-    border-radius: 10%;
+    border-radius: 20px;
 }
 
 .video-details {
